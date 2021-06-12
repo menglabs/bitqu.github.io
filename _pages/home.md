@@ -5,7 +5,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_filter: "0.2"
+  overlay_filter: "0.3"
   overlay_image: /assets/images/splash-bg.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Check Our Client's Product"
