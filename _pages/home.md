@@ -11,7 +11,8 @@ header:
     - label: "<i class='fas fa-download'></i> Check Our Client's Product"
       url: "https://oceanex.pro"
 excerpt: >
-  We build highly efficient and highly available cryptocurrency exchanges and brokerage.<br />
+  We build efficient and highly available cryptocurrency exchanges, secure cryptocurrency custody,
+  and professional brokerage services.<br />
 
 feature_row:
   - image_path: /assets/images/exchange.jpg
@@ -21,25 +22,43 @@ feature_row:
       We apply cloud-native technology to support crypto exchanges running 7 x 24.
       Our engineering team has rich experience in building a secure and highly available exchange
       with high-frequency support.
-    url: "/docs/configuration/"
+    url: "/exchange/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   
   - image_path: /assets/images/custody.jpg
     alt: "Custody"
     title: "Digital Asset Custody Technology"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    excerpt: >
+      We have designed and created multiple digital asset custody systems for cryptocurrency exchanges,
+      blockchain service providers, and brokers, capable of managing billions of US dollar worth of
+      user-owned assets from millions of users in a secure manner with the support of real-time deposits,
+      withdraws and account inquiries.
+    url: "/custody/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   
   - image_path: /assets/images/brokerage.jpg
     alt: "Brokerage"
     title: "Crypto Brokerage Technology"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    excerpt: >
+      Part of our work is to create a better platform connecting liquidity from major exchanges. Serving
+      word-leading cryptocurrency brokerage service providers, we have rich experience in order routing,
+      DMA, algorithmic trading and other key brokerage technologies. 
+    url: "/brokerage/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more" 
+
+  - image_path: /assets/images/devops.jpg
+    alt: "DevOps"
+    title: "DevOps for Fintech"
+    excerpt: >
+      With all critical services built upon public cloud infrastructure, we have the right collection of
+      DevOps tools and workflows to ensure the FinTech services in production are highly available,
+      traceable and cost-efficient.
+    url: "/devops/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
