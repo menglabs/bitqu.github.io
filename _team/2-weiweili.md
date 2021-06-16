@@ -1,6 +1,6 @@
 ---
 title: "Weiwei Li"
-excerpt: "R&D Director"
+excerpt: "Director of Engineering"
 
 header:
   teaser: assets/images/weiwei.jpg

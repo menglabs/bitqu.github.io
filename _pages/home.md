@@ -17,7 +17,7 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/exchange.jpg
     alt: "Exchange"
-    title: "Cryto Exchange Technology"
+    title: "Cryto Exchange"
     excerpt: >
       We apply cloud-native technology to support crypto exchanges running 7 x 24.
       Our engineering team has rich experience in building a secure and highly available exchange
@@ -28,7 +28,7 @@ feature_row:
   
   - image_path: /assets/images/custody.jpg
     alt: "Custody"
-    title: "Digital Asset Custody Technology"
+    title: "Digital Asset Custody"
     excerpt: >
       We have created multiple digital asset custody systems capable of managing billions of
       US dollar worth of user-owned assets from millions of users in a secure manner with the support of
@@ -39,7 +39,7 @@ feature_row:
   
   - image_path: /assets/images/brokerage.jpg
     alt: "Brokerage"
-    title: "Crypto Brokerage Technology"
+    title: "Crypto Brokerage"
     excerpt: >
       Part of our work is to create a better platform connecting liquidity from major exchanges. Serving
       word-leading cryptocurrency brokerage service providers, we have rich experience in order routing,

@@ -1,14 +1,14 @@
 ---
-title: "Backend Software Developer"
+title: "Software Engineer II"
 toc: true
 author_profile: false
 ---
 
-**Posted on:** June 15, 2021 <br />
+**Last updated:** Jun 15, 2021 <br />
 **Valid until:** Aug 15, 2021
 
 ---
-The recruitment team at BitQubic is looking for a Backend Software Developer working at the Ottawa office. An eligible candidate will be a member of backend team and work with product, engineering, infrastructure and security teams to design, develop, test and operate a digital asset trading and management platform accessed by large-scale users and bots across the world.
+The recruitment team at BitQubic is looking for a Software Engineer II working at the Ottawa office. An eligible candidate will be a member of backend team and work with product, engineering, infrastructure and security teams to design, develop, test and operate a digital asset trading and management platform accessed by large-scale users and bots across the world.
 
 ## Responsibilities
 
